@@ -1,2 +1,2 @@
 # ccg.github.io
-private blog author by @lfc.
+private blog author by lfc.
